@@ -1,14 +1,12 @@
 # ✭ SCRIPT CRACK FB TERBARU
 
-$ pkg update && pkg upgrade
+$ pkg update -y
 
 $ pkg install python git
 
 $ pip install mechanize requests
 
 $ pip install requests bs4 futures
-
-$ rm -rf crack-v3
 
 $ git clone https://github.com/kang-coli/crack-v3
 
